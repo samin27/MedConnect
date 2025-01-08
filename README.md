@@ -1,7 +1,7 @@
 <div>
 </div><br>
 <hr>
-<img src='./images/default.png' alt='medConnect' style="width:40%">
+<img src='.public/images/default.png' alt='medConnect' style="width:40%">
 <hr>
 
 Welcome to the MedConnect project repository! This project aims to provide a platform for individuals and organizations to donate unused or unexpired medicines to those in need. By donating medicines, you can help reduce healthcare costs and improve access to essential medications for people who cannot afford them.
