@@ -1,7 +1,7 @@
 <div>
 </div><br>
 <hr>
-<img src='./template/images/default.png' alt='mediaid' style="width:40%">
+<img src='./template/images/default.png' alt='medConnect' style="width:40%">
 <hr>
 
 Welcome to the MedConnect project repository! This project aims to provide a platform for individuals and organizations to donate unused or unexpired medicines to those in need. By donating medicines, you can help reduce healthcare costs and improve access to essential medications for people who cannot afford them.
@@ -10,7 +10,7 @@ Welcome to the MedConnect project repository! This project aims to provide a pla
 
 ### Developer guide
 - Clone the project in your local machine
-- Install all the the dependencies. (client and server)
+- Install all the dependencies. (client and server)
 - Rename the default.env file in both directories and configure it.
 - Use `cd client` then `npm run dev` to run your client
 - Use `cd server` then `npm run serve` to run your server
